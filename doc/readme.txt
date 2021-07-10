@@ -1,0 +1,1 @@
+LightControl ต้องใช้ usb to rs485 ftdi
