@@ -52,14 +52,23 @@ int numRGBleds = 8; //numRegisters*8/3;
 int ledCount=0;
 int colorCount=0;
 const unsigned char COLOR[][3] = { 
+//  {255,255,255}, //white
+//  {0,255,0}, //red
+//  {127,255,0}, //orange 
+//  {255,255,0}, //yellow 
+//  {255,0,0}, //green
+//  {0,0,255}, //blue
+//  {0,75,130}, //indigo
+//  {0,148,211}, //violet  
+
   {255,255,255}, //white
-  {0,255,0}, //red
-  {127,255,0}, //orange 
+  {255,0,0}, //red
+  {255,127,0}, //orange 
   {255,255,0}, //yellow 
-  {255,0,0}, //green
+  {0,255,0}, //green
   {0,0,255}, //blue
-  {0,75,130}, //indigo
-  {0,148,211}, //violet  
+  {75,0,130}, //indigo
+  {148,0,211}, //violet  
   };
   
 void setup() {

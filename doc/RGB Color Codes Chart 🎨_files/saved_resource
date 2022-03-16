@@ -1,0 +1,38 @@
+
+var ftGUID_4169491="4370927A80FE58";
+var ftConfID_4169491="0";
+var ftParams_4169491="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_ifb=1&ft_domain=www.rapidtables.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.rapidtables.com%2F&ft_section=__35734419877013294462292322962086344052&cachebuster=223943.5202850597";
+var ftKeyword_4169491="";
+var ftCustom_4169491="";
+var ftSection_4169491="__35734419877013294462292322962086344052";
+var ftSegment_4169491="w2c,um2,afr5,ag39,ahb9,ahlw,agpy,aig7,adj1";
+var ftSegmentList_4169491=[{s:'w2c'},{s:'um2'},{s:'afr5'},{s:'ag39'},{s:'ahb9'},{s:'ahlw'},{m:'c8562_products',s:'agpy'},{s:'aig7'},{s:'adj1'}];
+var ftRuleMatch_4169491="0";
+var ftTimestamp_4169491="1646888448";
+var ftGeoC2_4169491="th";
+var ftGeoState_4169491="10";
+var ftGeoCity_4169491="bangkok";
+var ftISP_4169491="true internet corporation co. ltd.";
+var ftSpeed_4169491="broadband";
+var ftDMA_4169491="-1";
+var ftLong_4169491="100.5";
+var ftLat_4169491="13.75";
+var ftPostal_4169491="10200";
+var ftTimeZone_4169491="700";
+var ftMobileCarrier_4169491="";
+var ftImp4169491 = {};
+ftImp4169491.privacy = "x";
+ftImp4169491.guidAge = "812";
+ftImp4169491.impID = "0BC5725E-E2F9-D43C-1BAF-F5E96A913CE9";
+ftImp4169491.duid = "FT:4370927A80FE58";
+
+ftImp4169491.ft_tpplid = "";
+ftImp4169491.ft_c = {};
+ftImp4169491.gdpr = "";
+ftImp4169491.gdpr_consent = "";
+ftImp4169491.gdpr_pd = "";
+ftImp4169491.oob_consent = "";
+ftImp4169491.gdprStoredConsent = "";
+ftImp4169491.us_privacy = "";
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/416/4169491/3767952/js/j-4169491-3767952.js" id="ftscript_m4169491" name="ftscript_m4169491"></scr'+'ipt>');
